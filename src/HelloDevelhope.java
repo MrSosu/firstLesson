@@ -9,7 +9,7 @@ public class HelloDevelhope {
     public static void main(String[] args) {
         System.out.println("Benvenuti al corso Java!");
 
-        int x = 5;
+        int x = 4;
         int y = 5;
         System.out.println(x);
 
